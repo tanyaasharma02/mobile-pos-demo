@@ -1,0 +1,14 @@
+/* src/index.css */
+:root {
+  --brand-primary: #4f46e5;
+  --brand-light: #eef2ff;
+}
+body {
+  font-family: "Inter", "Roboto", sans-serif;
+  background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #f8fafc;
+}

@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "gpn-ai-innovation-lab"
+  },
+  "targets": {
+    "gpn-ai-innovation-lab": {
+      "hosting": {
+        "new-site": [
+          "gpn-awesome-new-frontend"
+        ],
+        "mobile-app": [
+          "mobile-merch-onboarding"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
